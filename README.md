@@ -1,4 +1,4 @@
-<h1> Hi there! 👋</h1>
+<h3> Hi there! 👋</h3>
 <p>
 <ul>
 <li>👩🏼‍💻 I am learning to code and an aspiring front-end developer.</li>
