@@ -11,14 +11,14 @@
 </ul>
 
 <h6>Front-End Stack</h6>
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/aa80bc2c-b0b5-4257-9a55-7b331953de1f" width="25em" />
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/1546761c-949b-4dbf-8f7c-3e976c019e3e" width="25em"/>
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/31b5a861-160b-4052-b06d-e4942fbaeda0" width="25em"/>
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/aa80bc2c-b0b5-4257-9a55-7b331953de1f" width="30em" />
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/1546761c-949b-4dbf-8f7c-3e976c019e3e" width="30em"/>
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/31b5a861-160b-4052-b06d-e4942fbaeda0" width="30em"/>
 
 <h6>Exploring and Learning</h6>
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/b7534459-8b14-4b64-b130-c7ab652a1abc" width="28em"/>
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/45a7274b-f27c-42d0-8d56-e3e02c295a71" width="28em"/> 
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/71898f94-9afd-40f7-bf84-76faacda8eec" width="28em"/>
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/b7534459-8b14-4b64-b130-c7ab652a1abc" width="30em" height="30em"/>
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/45a7274b-f27c-42d0-8d56-e3e02c295a71" width="30em" height="30em"/> 
+<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/71898f94-9afd-40f7-bf84-76faacda8eec" width="30em" height="30em"/>
 
 <h6>Follow My Journey</h6>
 <a href="https://www.frontendmentor.io/profile/L-itslocked" title="Frontend Mentor"><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/f90f0a45-5df2-44dd-8288-f9686d008e37" width="20em"/>  </a>  
