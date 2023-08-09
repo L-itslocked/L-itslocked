@@ -22,8 +22,8 @@
 
 <h6>Follow My Journey</h6>
 <a href="https://www.frontendmentor.io/profile/L-itslocked" title="Frontend Mentor"><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/f90f0a45-5df2-44dd-8288-f9686d008e37" width="25em" height="25em"/>  </a>  
+<a href="https://www.shecodes.io/graduates/57396-laura-doyon" title="SheCodes"><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/755a58d0-a563-4f06-9341-6700e3356624" width="30em" height="27em" />  </a>  
 <a href="https://codepen.io/Itslocked" title="CodePen"><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/8f1f89b3-54da-484f-a787-7ec01a0cd387" width="25em" height="25em"/> </a>
-<a href="https://www.shecodes.io/graduates/57396-laura-doyon" title="SheCodes"><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/755a58d0-a563-4f06-9341-6700e3356624" width="25em" height="25em" />  </a>  
 <!-- <a href=""><img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/deaaacf8-a7d6-4f4d-9f31-c381a1322608" width="25em" height="25em"/></a> -->
 
 
