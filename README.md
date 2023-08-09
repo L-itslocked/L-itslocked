@@ -8,3 +8,7 @@
   <li>📫 Reach me on <a href="https://www.linkedin.com/in/doyonlaura" target="_blank">LinkedIn</li>
   <li>🔍 Stay tuned for my next project!</li>
 </ul>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
