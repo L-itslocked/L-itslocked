@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: README
+    name: README.md
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
