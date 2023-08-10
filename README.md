@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-👩🏼‍💻  I am a junior front-end developer<br/>
+👩🏼‍💻  I'm a junior front-end developer<br/>
 🌱  I am currently learning the ins and outs of React.js and UX/UI Design Principles<br/>
 🔭  I am actively working on the Meta Front-End Developer Professional Certificate<br/>
 💻  I actively participate in SheCodes, CodePen, & Frontend Mentor challenges<br/>
