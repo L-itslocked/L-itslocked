@@ -14,10 +14,9 @@
 
 ### Exploring and Learning: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Sass](https://img.shields.io/badge/sass-color.svg?style=plastic&logo=sass&logoColor=CC6699&color=white)
+![Tailwind UI](https://img.shields.io/badge/tailwind-css.svg?style=plastic&logo=tailwindcss&logoColor=%06B6D4&color=black)
 
-<!--<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/45a7274b-f27c-42d0-8d56-e3e02c295a71" width="30em" height="30em"/> 
-<img src="https://github.com/L-itslocked/L-itslocked/assets/114937668/71898f94-9afd-40f7-bf84-76faacda8eec" width="30em" height="30em"/>
--->
 ### Follow My Journey
 - [My Portfolio](https://www.lauradoyon.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/L-itslocked)
