@@ -17,10 +17,10 @@
 ![Sass](https://img.shields.io/badge/sass-color.svg?style=plastic&logo=sass&logoColor=CC6699&color=white)
 ![Tailwind UI](https://img.shields.io/badge/tailwind-css.svg?style=plastic&logo=tailwindcss&logoColor=%06B6D4&color=black)
 
-### Follow My Journey
+### Follow My Journey:
 - [My Portfolio](https://www.lauradoyon.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/L-itslocked)
 - [CodePen](https://www.codepen.io/itslocked)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-itslocked&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-itslocked&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
