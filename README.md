@@ -5,7 +5,7 @@
 🔭  I am actively working on the Meta Front-End Developer Professional Certificate<br/>
 💻  I actively participate in SheCodes, CodePen, & Frontend Mentor challenges<br/>
 🔍  Stay tuned for my next project!<br/>
-📫  Reach me on [LinkedIn](https://www.linkedin.com/in/doyonlaura)
+📮  Reach me on [LinkedIn](https://www.linkedin.com/in/doyonlaura)
 
 
 ### Skills and Technologies:
